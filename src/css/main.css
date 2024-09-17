@@ -32,6 +32,7 @@ video {
   font-style: normal;
   background-color: #264653;
   display: flex;
+  padding: 40px;
   font-weight: 700;
   line-height: 50px; /* 119.048% */
   letter-spacing: 0.263px;
@@ -48,7 +49,6 @@ video {
 
 .section-3 {
   width: 1648px;
-  height: 470px;
   background-color: #2a9d8f;
   flex-direction: column-reverse;
   display: flex;
@@ -56,7 +56,6 @@ video {
 }
 .section-4 {
   width: 1648px;
-  height: 170px;
   display: flex;
   background-color: #2a9d8f;
   justify-content: space-between;
@@ -64,7 +63,6 @@ video {
 
 .section-5 {
   width: 1648px;
-  height: 470px;
   display: flex;
   background: #2a9d8f;
   flex-direction: column;
